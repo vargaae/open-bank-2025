@@ -1,6 +1,54 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# OpenBank-25 - Next JS | Typescript | Appwrite
 
-## Getting Started
+<div align="center">
+  <img alt="Application image" src="https://d-addicts.com/wp-content/uploads/2023/05/word-image-12040-2.png" width="700" />
+</div>
+<br>
+  <div align="center">
+    <img src="https://img.shields.io/badge/-Next_JS-black?style=for-the-badge&logoColor=white&logo=next&color=61DAFB" alt="NextJS" />
+    <img src="https://img.shields.io/badge/-Typescript-black?style=for-the-badge&logoColor=white&logo=typescript&color=06B6D4" alt="TypeScript" />
+    <img src="https://img.shields.io/badge/-React_TS-black?style=for-the-badge&logoColor=white&logo=react&color=61DAFB" alt="react.js" />
+    <img src="https://img.shields.io/badge/-Tailwind_CSS-black?style=for-the-badge&logoColor=white&logo=tailwindcss&color=06B6D4" alt="tailwindcss" />
+    <img src="https://img.shields.io/badge/-Appwrite-black?style=for-the-badge&logoColor=white&logo=appwrite&color=FD366E" alt="appwrite" />
+  </div>
+<h1 align="center">
+OpenBank-25 is a modern Open Banking Application for everyone
+</h1>
+
+## <a name="features"> 🛠 Features</a>
+
+👉 **Authentication**: An ultra-secure SSR authentication with proper validations and authorization
+
+👉 **Connect Banks**: Integrates with Plaid for multiple bank account linking
+
+👉 **Home Page**: Shows general overview of user account with total balance from all connected banks, recent transactions, money spent on different categories, etc
+
+👉 **My Banks**: Check the complete list of all connected banks with respective balances, account details
+
+👉 **Transaction History**: Includes pagination and filtering options for viewing transaction history of different banks
+
+👉 **Real-time Updates**: Reflects changes across all relevant pages upon connecting new bank accounts.
+
+👉 **Funds Transfer**: Allows users to transfer funds using Dwolla to other accounts with required fields and recipient bank ID.
+
+👉 **Responsiveness**: Ensures the application adapts seamlessly to various screen sizes and devices, providing a consistent user experience across desktop, tablet, and mobile platforms.
+
+## ▲ Next.js 14.2.10
+
+## 🛠 STACK and Versions:
+
+- Next.js 15.1.6
+- TypeScript
+- Appwrite
+- Plaid
+- Dwolla
+- React Hook Form
+- Zod
+- TailwindCSS
+- Chart.js
+- ShadCN
+
+## Available Scripts
 
 First, run the development server:
 
